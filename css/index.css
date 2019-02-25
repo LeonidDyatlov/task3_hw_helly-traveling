@@ -1,0 +1,180 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	height:70px;
+	margin: 1px 1px 1px 1px;
+}
+img {
+	width: 1500px;
+	height: auto;
+}
+#logo a {
+	margin-left: 20px;
+	float: left;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 40px;
+	text-shadow: 0 1px 0 white;
+	color: black;
+}
+
+nav {
+	overflow: hidden;
+	float: right;
+	font-size: 40px;
+}
+
+nav li {
+	float:left;
+	list-style: none;
+}
+nav li a {
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 0 30px;
+	color: black;
+	text-shadow: 0 1px 0 white;
+}
+
+nav li a:hover {
+	color: red;
+}
+
+#home {
+	font-size: 40px;
+	margin: 1px 1px 20px 1px;
+	text-align: center;
+}
+#together {
+	width: 40%;
+	float:left;
+}
+#wrapper_h {
+    width: 1500px;
+    margin: 0 auto;
+    }
+
+#future_trips {
+    font-size: 40px;
+	border-top-style: solid;
+	margin: 10px 1px 20px 1px;
+	text-align: center;
+}
+.container {
+	overflow: hidden;
+	width: 1500px;
+	margin: 0 auto;
+}
+.box div {
+	width: 1000px;
+	display:inline-block;
+}
+#morocco {
+	width: 100%;
+}
+#wrapper_ft_1 {
+    background: #fff;
+    width: 400px;
+    margin: 0 auto;
+    font-size: 25px;
+}
+#dubrovnik {
+	width: 100%;
+}
+#wrapper_ft_2 {
+    background: #fff;
+    width: 400px;
+    margin: 0 auto;
+    font-size: 25px;
+}
+#montenegro {
+	width: 100%;
+}
+#wrapper_ft_3 {
+    background: #fff;
+    width: 400px;
+    margin: 0 auto;
+    font-size: 25px;
+}
+
+#past_trips {
+    font-size: 40px;
+	border-top-style: solid;
+	margin: 10px 1px 20px 1px;
+	text-align: center;
+}
+#bulgaria {
+	width: 600px;
+	height: auto;
+}
+#spain {
+	width: 600px;
+	height: auto;
+}
+#scotland {
+	width: 600px;
+	height: auto;
+}
+#czech_republic {
+	width: 600px;
+	height: auto;
+}
+
+
+
+#help {
+    font-size: 40px;
+	border-top-style: solid;
+	margin: 10px 1px 20px 1px;
+	text-align: center;
+}
+#mountain {
+	width: 600px;
+	height: auto;
+}
+#shark {
+	width: 600px;
+	height: auto;
+}
+#ukraine {
+	width: 600px;
+	height: auto;
+}
+#hostel {
+	width: 600px;
+	height: auto;
+}
+
+
+#contact {
+    font-size: 40px;
+	border-top-style: solid;
+	margin: 10px 1px 20px 1px;
+	text-align: center;
+}
+#icon_facebook {
+	width: 60px;
+	height: auto;
+}
+#icon_instagram {
+	width: 60px;
+	height: auto;
+}
+#icon_telegram {
+	width: 60px;
+	height: auto;
+}
+#icon_twitter {
+	width: 60px;
+	height: auto;
+}
+#icon_youtube {
+	width: 60px;
+	height: auto;
+}
+form {
+	font-size: 20px;
+}
